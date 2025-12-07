@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Narasimha charyulu chitturi</h1>
 <h3 align="center">A passionate full stack developer and cybersecurity learner</h3>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on **Hardware Encrypted Biometrics**
 
-- 🌱 I’m currently learning **Penetration Testing, DSA**
+- 🌱 I’m currently learning **Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
+- 👨‍💻 All of my projects are available at https://github.com/Narasimha2005
 
 - 💬 Ask me about **react, node, python, java, networking, malware analysis**
 
 - 📫 How to reach me **narasimha19042005@gmail.com**
 
-- 📄 Know about my experiences [...](...)
+- 📄 Know about my experiences https://www.linkedin.com/in/narasimhachitturi/
 
 - ⚡ Extra fact about me **I am very good in Mathematics from childhood**
 
